@@ -1,1 +1,1 @@
-https://APTEMII.github.io/rsschool-cv/cv rsschool-cv
+https://APTEMII.github.io/rsschool-cv/cv

@@ -29,9 +29,10 @@ I am 29 yeras old.I live in Minsk.I want to become rontend developer.
 
 ## Сode sample
 
-```<title> italy2020</title>
+```
+ <title> italy2020</title>
 <meta name="description" content="обзор евро2020">
-<meta property="og:image" content="/images-header.png">
+<meta property="og:image" content="/images-header.png"> 
 ```
 
 ---
